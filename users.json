@@ -1,0 +1,33 @@
+roboinfo = 
+    {
+        id: 1,
+        name: 'Jhon Deo',
+        image: 'https://robohash.org/test',
+        description: 'Hey champs, i have'
+    },
+    {
+        id: 2,
+        name: 'Scorpian King',
+        image: 'https://robohash.org/test1',
+        description: 'Hey champs, i have'
+    },
+
+    {
+        id: 3,
+        name: 'ShaktiMan',
+        image: 'https://robohash.org/test2',
+        description: 'Hey champs, i have'
+    },
+    {
+        id: 4,
+        name: 'Bumble-B',
+        image: 'https://robohash.org/test3',
+        description: 'Hey champs, i have'
+    },
+
+    {
+        id: 5,
+        name: 'Bam Bam Biglo',
+        image: 'https://robohash.org/test4',
+        description: 'Hey champs, i have'
+    }
