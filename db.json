@@ -1,6 +1,8 @@
 {
-  id: 1,
-  name: 'Jhon Deo',
-  image: 'https://robohash.org/test',
-  description: 'Hey champs, i have'
+  "users": {
+    "id": 1,
+    "name": "Jhon Deo",
+    "image": "https://robohash.org/test",
+    "description": "Hey champs, i have"
+  }
 }
